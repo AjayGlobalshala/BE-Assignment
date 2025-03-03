@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1ffb8f3d-0595-4c69-8cdd-2c463fb1aff4",
+    "title": "React Basics",
+    "instructor": "John Doe",
+    "date": "2025-03-10",
+    "minEmployees": 5,
+    "maxEmployees": 20,
+    "registeredEmployees": []
+  },
+  {
+    "id": "6fcbdd08-0cad-4d2f-b054-5ef7b4258d43",
+    "title": "React Basics",
+    "instructor": "John Doe",
+    "date": "2025-03-10",
+    "minEmployees": 5,
+    "maxEmployees": 20,
+    "registeredEmployees": []
+  },
+  {
+    "id": "015a7c32-bf60-4f37-a668-6aff5713b3b3",
+    "title": "React Basics",
+    "instructor": "John Doe",
+    "date": "2025-03-10",
+    "minEmployees": 5,
+    "maxEmployees": 20,
+    "registeredEmployees": []
+  },
+  {
+    "id": "8264c029-b2ed-4dd2-958b-2ea5e2d2ba03",
+    "title": "React Basics",
+    "instructor": "John Doe",
+    "date": "2025-03-10",
+    "minEmployees": 5,
+    "maxEmployees": 20,
+    "registeredEmployees": []
+  },
+  {
+    "id": "947bf374-beb0-4685-b43a-c13ead43fbb1",
+    "title": "React Basics",
+    "instructor": "John Doe",
+    "date": "2025-03-10",
+    "minEmployees": 5,
+    "maxEmployees": 20,
+    "registeredEmployees": []
+  },
+  {
+    "id": "956b0517-23de-424e-a5e9-803f62cb8079",
+    "title": "React Basics",
+    "instructor": "John Doe",
+    "date": "2025-03-10",
+    "minEmployees": 5,
+    "maxEmployees": 20,
+    "registeredEmployees": []
+  }
+]
