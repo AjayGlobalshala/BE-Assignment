@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "SDD-OFFERING-JAVA-JAMES",
+    "employee_name": "sdd",
+    "email": "ndda@gmail.com",
+    "courseId": "OFFERING-JAVA-JAMES"
+  },
+  {
+    "id": "ADD-OFFERING-JAVA-JAMES",
+    "employee_name": "Add",
+    "email": "Ada@gmail.com",
+    "courseId": "OFFERING-JAVA-JAMES"
+  },
+  {
+    "id": "ODD-OFFERING-JAVA-JAMES",
+    "employee_name": "odd",
+    "email": "oda@gmail.com",
+    "courseId": "OFFERING-JAVA-JAMES"
+  },
+  {
+    "id": "PDD-OFFERING-JAVA-JAMES",
+    "employee_name": "pdd",
+    "email": "oda@gmail.com",
+    "courseId": "OFFERING-JAVA-JAMES"
+  },
+  {
+    "id": "RDD-OFFERING-JAVA-JAMES",
+    "employee_name": "rdd",
+    "email": "oda@gmail.com",
+    "courseId": "OFFERING-JAVA-JAMES"
+  },
+  {
+    "id": "EDD-OFFERING-JAVA-JAMES",
+    "employee_name": "edd",
+    "email": "oda@gmail.com",
+    "courseId": "OFFERING-JAVA-JAMES"
+  },
+  {
+    "id": "ZADD-OFFERING-JAVA-JAMES",
+    "employee_name": "zadd",
+    "email": "oda@gmail.com",
+    "courseId": "OFFERING-JAVA-JAMES"
+  }
+]
